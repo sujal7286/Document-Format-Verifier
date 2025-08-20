@@ -1,2 +1,6 @@
-# Document-Format-Verifier
-this is Document Format Verifier which checks the document from provided refrence 
+# Document Format Verifier
+
+Run with:
+```
+python app.py
+```
