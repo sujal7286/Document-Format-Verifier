@@ -1,0 +1,6 @@
+
+body { font-family: Arial, sans-serif; background: #f0f0f0; padding: 20px; }
+h1 { color: #333; }
+table { border-collapse: collapse; width: 100%; margin: 10px 0; background: #fff; }
+td, th { border: 1px solid #ccc; padding: 8px; }
+pre { background: #222; color: #0f0; padding: 10px; }
